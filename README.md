@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/77151500/120507094-2fa63380-c3cf-11eb-9705-04b4cec51279.png)
 |***First Name***|***Last Name***|***BrithDate***|***Birth Country***|***Birth City***|***Live Cities***  |
 |:---      |:---:    |:---:    |:---:        |:---:     |         ---:|
-|Murat     | GÖKTAŞ  |1974     |TÜRKİYE 🇹🇷:  |Erzurum   |Kocaeli-Muğla|
+|Murat     | GÖKTAŞ  |1974     |TÜRKİYE :tr: |Erzurum   |Kocaeli-Muğla|
  
 - 
 - 👋 Hi, I’m @muratgoktas
