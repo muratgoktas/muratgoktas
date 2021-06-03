@@ -9,7 +9,11 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 ```diff
-  @@ Python with AI and Machine Learning @@
+- Java and Python with NLP(Natural Language Processing )
++ xcode with Augmented Reality 
+! C# with Unity
+# SAP Abap
+@@ Python with AI and Machine Learning @@
 ```
 - 💞️ I’m looking to collaborate on ...
 - 
