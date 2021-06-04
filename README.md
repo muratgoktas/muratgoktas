@@ -4,7 +4,9 @@
 |:---      |:---:    |:---:    |:---:        |:---:     |         ---:|
 |Murat     | GÖKTAŞ  |1974     |TÜRKİYE :tr: |Erzurum   |Kocaeli-Muğla|
  
-- 
+
+
+
 - 👋 Hi, I’m @muratgoktas
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -15,6 +17,7 @@
 # SAP Abap
 @@ Python with AI and Machine Learning @@
 ```
+
 - 💞️ I’m looking to collaborate on ...
 - 
 <!---
@@ -25,6 +28,7 @@
 - 📫 <h1>Certificate</h1>...
 
 
+
 ```diff
 - text in red
 + text in green
@@ -32,7 +36,16 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" 
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100" height="50">
+  <text font-size="16" x="10" y="20">
+    <tspan fill="red">Hello</tspan>,
+    <tspan fill="green">world</tspan>!
+  </text>
+</svg> 
 
 
 
