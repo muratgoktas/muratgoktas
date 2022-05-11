@@ -18,6 +18,7 @@
 # SAP Abap
 @@ Python with AI and Machine Learning @@
 ```
+![Kare Grafik Gönderisi 800x800  px](https://user-images.githubusercontent.com/77151500/120977943-9a16f500-c77c-11eb-9f76-1f5d014e606f.gif)
 
 - 💞️ I’m looking to collaborate on ...
 - 
