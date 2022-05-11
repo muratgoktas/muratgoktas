@@ -18,10 +18,7 @@
 # SAP Abap
 @@ Python with AI and Machine Learning @@
 ```
-![Kare Grafik Gönderisi 800x800  px](https://user-images.githubusercontent.com/77151500/120977943-9a16f500-c77c-11eb-9f76-1f5d014e606f.gif)
-
-- 💞️ I’m looking to collaborate on ...
-- 
+<iframe src="https://giphy.com/embed/dw9QEW4midAXK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactiongifs-dw9QEW4midAXK">via GIPHY</a></p>
 <!---
 ![Kare Grafik Gönderisi 800x800  px](https://user-images.githubusercontent.com/77151500/120977943-9a16f500-c77c-11eb-9f76-1f5d014e606f.gif)
 | Left-aligned | Center-aligned | Right-aligned |
