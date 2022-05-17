@@ -1,5 +1,6 @@
 
-<img src="https://user-images.githubusercontent.com/77151500/120715677-9d388980-c4cd-11eb-9cf1-167e2569abcc.png" alt="Biryetmez" width="570" height="247" title="Biryetmez">
+|<img src="https://user-images.githubusercontent.com/77151500/120715677-9d388980-c4cd-11eb-9cf1-167e2569abcc.png" alt="Biryetmez" width="570" height="247" title="Biryetmez">|<img src="https://user-images.githubusercontent.com/77151500/168813830-da945fa9-4e4c-4ca0-bb99-93dd43f1edb1.PNG" alt="Biryetmez" width="570" height="247" title="Biryetmez">|
+|:---:    |:---:    |
 
 
 |***First Name***|***Last Name***|***BrithDate***|***Birth Country***|***Birth City***|***Live Cities***  |
